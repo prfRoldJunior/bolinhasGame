@@ -1,6 +1,6 @@
 # Bolinhas Game
 
-Jogo de celular para testes da disciplina de Engenharia da Ifpr de Astorga
+Jogo de celular de Engenharia da Ifpr de Astorga
 
 # Como Copiar o jogo
 
